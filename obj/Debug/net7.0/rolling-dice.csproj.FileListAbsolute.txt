@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/rolling-dice/bin/Debug/net7.0/rolling-dice
+/Users/brandonherbison/workspace/csharp/rolling-dice/bin/Debug/net7.0/rolling-dice.deps.json
+/Users/brandonherbison/workspace/csharp/rolling-dice/bin/Debug/net7.0/rolling-dice.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/rolling-dice/bin/Debug/net7.0/rolling-dice.dll
+/Users/brandonherbison/workspace/csharp/rolling-dice/bin/Debug/net7.0/rolling-dice.pdb
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.dll
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/refint/rolling-dice.dll
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.pdb
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/rolling-dice.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/rolling-dice/obj/Debug/net7.0/ref/rolling-dice.dll
